@@ -33,3 +33,8 @@ This project is intended to demonstrate how an e-commerce website might look and
    cd Web-Project-Ghar-Sajau-
    
 2.  Open the project: Open index.html in your browser to view the website.
+
+
+
+[![Click Me](https://img.shields.io/badge/Click%20Me-Visit%20Repo-blue)](https://github.com/sushant-bit/Web-Project-Ghar-Sajau-.git)
+
