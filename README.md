@@ -36,5 +36,6 @@ This project is intended to demonstrate how an e-commerce website might look and
 
 
 
-[![Click Me](https://sushant-bit.github.io/Web-Project-Ghar-Sajau-/)
+[![Click Me](https://img.shields.io/badge/Click%20Me-Visit%20Repo-blue)](https://sushant-bit.github.io/Web-Project-Ghar-Sajau-/)
+
 
